@@ -1,0 +1,8 @@
+# Giao diện tối mặc định (Streamlit native theme, không CSS tùy chỉnh)
+[theme]
+base = "dark"
+primaryColor = "#2563eb"
+backgroundColor = "#10151c"
+secondaryBackgroundColor = "#18202b"
+textColor = "#e6edf3"
+font = "sans serif"

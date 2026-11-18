@@ -1,0 +1,11 @@
+image,category,has_valid_plate,gt_plate,box_visual_check,source,label_status,note
+car_front_vf8.jpg,whole_vehicle,yes,30K 203.05,ok,Wikimedia Commons CC BY-SA 4.0,read_from_image_by_assistant,biển 2 dòng
+car_rear_vf8.jpg,whole_vehicle,yes,30K 203.05,ok,Wikimedia Commons CC BY-SA 4.0,read_from_image_by_assistant,biển 2 dòng
+car_rear_angle_vf8.jpg,whole_vehicle,yes,30K 203.05,ok,Wikimedia Commons CC BY-SA 4.0,read_from_image_by_assistant,biển 2 dòng; chụp nghiêng
+car_street_front.jpg,whole_vehicle,yes,30K-188.75,ok,Wikimedia Commons CC BY-SA 4.0,read_from_image_by_assistant,biển 1 dòng
+car_street_front_far.jpg,whole_vehicle,yes,30K-188.75,ok,Wikimedia Commons CC BY-SA 4.0,read_from_image_by_assistant,biển 1 dòng; xe ở xa (biển nhỏ)
+street_motorbike_far.jpg,whole_vehicle_far_motorbike,yes,29-AE 466.41,ok,Wikimedia Commons CC BY-SA 4.0,needs_user_confirmation,biển xe máy rất nhỏ và mờ; nhãn không chắc chắn hoàn toàn
+hcm.jpg,plate_only,yes,51F-178.12,n/a,Wikimedia Commons CC BY-SA 4.0,read_from_image_by_assistant,ảnh chỉ chứa biển (crop)
+motorbike_tilted.jpg,tilted_motorbike,yes,,n/a,Wikimedia Commons CC BY-SA 3.0,unreadable,xe máy biển nghiêng nhiều; không đọc chắc được nên không dùng cho OCR
+car_showroom_vf8.jpg,display_plate,no,,n/a,Wikimedia Commons CC BY-SA 4.0,read_from_image_by_assistant,biển trưng bày ghi "VF8" không phải biển số hợp lệ
+vf6.jpg,no_plate,no,,n/a,Wikimedia Commons CC BY-SA 4.0,read_from_image_by_assistant,xe không thấy biển

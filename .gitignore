@@ -1,0 +1,33 @@
+# Python / môi trường
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Mô hình / dữ liệu lớn (tải lại theo docs/MODEL.md)
+*.pt
+*.pth
+*.onnx
+*.zip
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Kết quả chạy cục bộ (không công bố tự động; xem RELEASE_AUDIT.md)
+outputs/*
+!outputs/.gitkeep
+
+# Ảnh chưa xác minh quyền chia sẻ
+samples/xemau*.jpg
+
+# Báo cáo LaTeX và file build (giữ riêng, không công bố)
+docs/report/
+
+# Hệ điều hành / IDE / agent
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.claude/
+CLAUDE.md
